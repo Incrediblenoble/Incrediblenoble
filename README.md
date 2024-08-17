@@ -22,7 +22,7 @@ Stay tuned for more updates on my journey as a Junior Mobile Developer, Intermed
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Cloud Engineer or UX Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing tumson1000000.com.
+- 📫 You can contact me by emailing tumson1000000@gmail.com.
 
 ---
 
